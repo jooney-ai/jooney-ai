@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Nice to meet you all, I'm Korean
-I'm interested in How can human get helped with artificial inteligence
+Nice to meet you all, I'm Korean\n
+I'm interested in How can human get helped with artificial inteligence\n
 Most using language 'Python'
