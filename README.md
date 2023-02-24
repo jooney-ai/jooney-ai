@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **jooney-ai/jooney-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Nice to meet you all, I'm Korean
-I'm interested in How can human get helped with artificial inteligence\n
+
+I'm interested in How can human get helped with artificial inteligence
+
+
 Most using language 'Python'
+
+```
+Nice to meet you all, I'm Korean 
+I'm interested in How can human get helped with artificial inteligence
+Most using language 'Python'
+```
