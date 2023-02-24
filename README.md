@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 Nice to meet you all, I'm Korean  
 I'm interested in How can human get helped with artificial inteligence  
 Most using language 'Python'
