@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 
 
-Nice to meet you all, I'm Korean  
-I'm interested in How can human get helped with artificial inteligence  
-Most using language 'Python'
 
 ```
 Nice to meet you all, I'm Korean 
