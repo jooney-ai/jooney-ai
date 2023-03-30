@@ -23,3 +23,9 @@ Nice to meet you all, I'm Korean
 I'm interested in How can human get helped with artificial inteligence
 Most using language 'Python'
 ```
+
+
+Aword
+
+Kaggle ‘GoDaddy - Microbusiness Density Forecasting’, Silver medal
+AI Connect korea - 'Get a taste of GPT on your laptop : Korean Document Creation Summary', Gold medal
