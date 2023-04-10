@@ -25,8 +25,12 @@ Most using language 'Python'
 ```
 
 
+Main Projects
+
+* [B2B Target Character Voice Chatbot Service](https://far-ballcap-854.notion.site/B2B-46e7a031f0b04717ad1e897a30f4c7ef)
+
 
 Awards
 
 * Kaggle ‘GoDaddy - Microbusiness Density Forecasting’, Silver medal
-* AI Connect korea - 'Get a taste of GPT on your laptop : Korean Document Creation Summary', Gold medal
+* AI Connect korea - 'Get a taste of GPT on your laptop : Korean Document Creation Summary', Gold medal 1st
