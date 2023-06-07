@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ```
 Nice to meet you all, I'm Korean 
-I'm interested in How can human get helped with artificial inteligence
+I'm interested in How can human get helped with artificial intelligence
 Most using language 'Python'
 ```
 
